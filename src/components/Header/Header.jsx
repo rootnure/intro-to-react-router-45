@@ -10,6 +10,7 @@ const Header = () => {
                     <span>
                         <Link to="/">Home</Link>
                         <Link to="contact">Contact</Link>
+                        <Link to="posts">Posts</Link>
                         <Link to="about">About Us</Link>
                         <Link to="users">Users</Link>
                         <Link to="app">App</Link>
