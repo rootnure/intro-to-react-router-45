@@ -1,3 +1,14 @@
+header span {
+    padding: 0 10px;
+}
+
 nav a {
-    padding-left: 15px;
+    padding: 4px 12px;
+    border-radius: 5px;
+}
+
+nav .active {
+    text-decoration: underline;
+    color: lightgrey;
+    background: blue;
 }
